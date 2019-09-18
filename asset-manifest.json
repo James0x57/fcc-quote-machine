@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fcc-quote-machine/static/css/main.9db935ad.chunk.css",
+    "main.js": "/fcc-quote-machine/static/js/main.e84432d3.chunk.js",
+    "main.js.map": "/fcc-quote-machine/static/js/main.e84432d3.chunk.js.map",
+    "runtime~main.js": "/fcc-quote-machine/static/js/runtime~main.03929c86.js",
+    "runtime~main.js.map": "/fcc-quote-machine/static/js/runtime~main.03929c86.js.map",
+    "static/css/2.2727f49d.chunk.css": "/fcc-quote-machine/static/css/2.2727f49d.chunk.css",
+    "static/js/2.af6ab0f4.chunk.js": "/fcc-quote-machine/static/js/2.af6ab0f4.chunk.js",
+    "static/js/2.af6ab0f4.chunk.js.map": "/fcc-quote-machine/static/js/2.af6ab0f4.chunk.js.map",
+    "index.html": "/fcc-quote-machine/index.html",
+    "precache-manifest.5a25f7c83ff603fe4dc0436dfe4338ef.js": "/fcc-quote-machine/precache-manifest.5a25f7c83ff603fe4dc0436dfe4338ef.js",
+    "service-worker.js": "/fcc-quote-machine/service-worker.js",
+    "static/css/2.2727f49d.chunk.css.map": "/fcc-quote-machine/static/css/2.2727f49d.chunk.css.map",
+    "static/css/main.9db935ad.chunk.css.map": "/fcc-quote-machine/static/css/main.9db935ad.chunk.css.map",
+    "static/media/index.css": "/fcc-quote-machine/static/media/VictorMono-Regular.f71b5fb6.woff"
+  }
+}
